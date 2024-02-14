@@ -29,7 +29,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 3. Display the sample metadata, i.e., an individual's demographic information.
 
 
-![output](Demographic.png)
+![output](demo_info.png)
 
 
 ## Sources and Support
