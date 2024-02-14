@@ -15,7 +15,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 1. Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found.
 
    
-![output](BarChart.png)
+![output](H_barchart.png)
 
 
 
