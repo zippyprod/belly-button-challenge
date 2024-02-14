@@ -22,7 +22,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 2. Create a bubble chart that displays the samples..
 
    
-![output](BubbleChart.png)
+![output](bubble_chart.png)
 
 
 
