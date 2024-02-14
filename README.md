@@ -1,4 +1,4 @@
-# belly-button-challenge
+# Belly-Button-Challenge
 Belly-Button Challenge related files are in the repository
 
 ## Solution
